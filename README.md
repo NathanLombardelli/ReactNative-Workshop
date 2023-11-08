@@ -7,7 +7,8 @@ https://docs.expo.dev/tutorial/introduction/ <br>
 
 https://github.com/NathanLombardelli/ReactNative-Workshop/assets/55028792/78a01e2d-712a-431f-9348-4706d5805fb2
 
-
+## Infos
+- si il y a trop de projet lancer dans Expo Go et que vous ne trouver pas le votre, changer le 'name' dans app.json
 ## Ressources
 - Le code du projet fini en cas de blocage : https://github.com/NathanLombardelli/React_Native_learning
 ### Pour aller plus loin

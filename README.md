@@ -10,6 +10,7 @@ https://github.com/NathanLombardelli/ReactNative-Workshop/assets/55028792/78a01e
 
 ## Ressources
 - Le code du projet fini en cas de blocage : https://github.com/NathanLombardelli/React_Native_learning
+### Pour aller plus loin
 - Une page Notion avec plusieurs éléments propres à React Native : <br> https://roomy-rubidium-df0.notion.site/React-Native-1d08b411fa4e45bca42b11d30ef2a871?pvs=4
 ## Bonus
 - Mettre des stickers personnaliser.
